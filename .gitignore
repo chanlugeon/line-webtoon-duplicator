@@ -1,0 +1,7 @@
+.project
+.classpath
+bin/
+src/test/
+.settings/
+jsoup-1.11.3.jar
+com.google.gson_2.8.2.v20180104-1110.jar
