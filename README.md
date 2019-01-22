@@ -6,7 +6,6 @@
 
 All content in Line Webtoon can be downloaded **any number of times** and
 stored **forever** due to *Line Webtoon Duplicator*.  
-Comments can also can be stored.
 
 ## Download
 [line-webtoon-duplicator.exe][exe]  
